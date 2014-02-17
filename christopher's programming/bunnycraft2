@@ -1,0 +1,13 @@
+from tkinter import *
+tk = Tk()
+canvas = Canvas(tk, width=1000, height=1000)
+canvas.pack()
+bsprite1 = canvas.create_oval(20, 20, 40, 40,fill='brown')
+bsprite2 = canvas.create_oval(30, 30, 40, 40,
+
+from tkinter import *
+tk = Tk()
+canvas = Canvas(tk, width=1000, height=1000)
+canvas.pack()
+bsprite1 = canvas.create_oval(20, 20, 40, 40,fill='brown')
+bsprite2 = canvas.create_oval(30, 30, 40, 40,

@@ -1,0 +1,4 @@
+from tkinter import *
+tk = Tk()
+canvas = Canvas(tk, hieght=1000, width=1000)
+

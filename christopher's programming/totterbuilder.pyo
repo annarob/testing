@@ -1,0 +1,11 @@
+import turtle
+import time
+wn = turtle.Screen()
+t = turtle.Turtle()
+def poo():
+    q = turtle.Turtle()
+    q.color(0.3, 0, 0)
+    q.begin_fill()
+    q.circle(9)
+    q.end_fill()
+    pass
